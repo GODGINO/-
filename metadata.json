@@ -1,0 +1,5 @@
+{
+  "name": "Local Vault Manager",
+  "description": "A sophisticated tool to manage, visualize, and bulk-import key-value pairs into your browser's LocalStorage.",
+  "requestFramePermissions": []
+}
